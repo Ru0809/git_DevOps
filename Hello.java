@@ -4,6 +4,7 @@ public class Hello
     {
         System.out.println("Good Morning, Ru");
         System.out.println("Hello, world!");
+        System.out.println("Byee");
     }
 }
 
